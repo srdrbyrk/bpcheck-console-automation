@@ -1,0 +1,24 @@
+Microsoft BPCheck
+=================
+Project: microsoft/tigertoolbox, BPCheck
+https://github.com/microsoft/tigertoolbox/tree/master/BPCheck
+
+This distribution contains independently authored wrapper code and documents.
+It does NOT bundle Microsoft's Check_BP_Servers.sql.
+
+At runtime, the wrapper downloads an unchanged, pinned source file directly
+from the Microsoft repository, or accepts the same file provided locally.
+Its upstream notices, disclaimer and applicable terms remain separate.
+The wrapper's MIT license does not relicense Microsoft's SQL source.
+Review the upstream terms and your organization's approval requirements before
+downloading, using or separately redistributing the SQL source.
+
+No Microsoft affiliation, endorsement or support is implied.
+Microsoft and SQL Server are trademarks of their respective owner.
+
+TR:
+Dagitim yalnizca bagimsiz calistiricilari ve belgeleri icerir; Microsoft SQL
+kaynagi dahil degildir. Calisma sirasinda indirilen kaynak degistirilmez.
+MIT lisansi ucuncu taraf SQL kaynagini yeniden lisanslamaz. Indirme, kullanim
+ve ayri dagitim oncesinde upstream kosullarini ve kurum onayinizi inceleyin.
+Microsoft baglantisi, onayi veya destegi ima edilmez.
