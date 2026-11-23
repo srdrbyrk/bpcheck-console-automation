@@ -1,0 +1,20 @@
+# Local diagnostics and downloaded third-party source must not be published.
+/Raporlar/
+/Test-Sonuclari/
+/dist/
+/Check_BP_Servers.sql
+/TEST-RAPORU.txt
+*.log
+*.zip
+*.mdf
+*.ldf
+*.bak
+*.trn
+*.pfx
+*.key
+.env
+.env.*
+**/Ozet.json
+**/Sonuclar.txt
+**/Rapor.html
+**/Testler.json
